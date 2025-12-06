@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,31 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Student Management System
+
+Professional Laravel project with the following features:
+
+## Features
+- Student Management
+- Fees Management
+- Leave Management
+- Admin Panel
+
+- Reports & Analytics
+- User Roles & Permissions
+- Responsive Design
+
+## Installation
+1. composer install
+2. Copy .env.example → .env
+3. php artisan migrate
+4. php artisan serve
+
+## Demo
+http://your-demo-link.com
+
+## Contact
+Email: your@email.com
+WeChat: yourID
+>>>>>>> 8b3be327922846251bc6f708857928d858c93f5a
