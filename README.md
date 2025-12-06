@@ -7,7 +7,7 @@ Professional Laravel project with the following features:
 - Fees Management
 - Leave Management
 - Admin Panel
-- Course & Class Management
+
 - Reports & Analytics
 - User Roles & Permissions
 - Responsive Design
